@@ -17,6 +17,7 @@ This project focuses on classifying Nepali news articles using a machine learnin
 - **Size:** ~7,500 news articles.
 - **Source:** Nepali news websites.
 - **Structure:** Pre-divided into training and validation sets.
+- **Link:** https://www.kaggle.com/datasets/disisbig/nepali-news-dataset
 
 ### Dataset Files
 
